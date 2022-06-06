@@ -23,4 +23,5 @@ tensorflow-addons
 !pip install -q -U tensorflow-addons
 
 !pip install git+https://github.com/artemmavrin/focal-loss.git
-# https://focal-loss.readthedocs.io/en/latest/generated/focal_loss.SparseCategoricalFocalLoss.html
+
+[Network Architecture](unet.png)
